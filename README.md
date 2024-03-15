@@ -9,4 +9,4 @@ or offers an opinion. With a successful prediction model, TikTok can reduce the 
 
 Project background: Build a dataframe for the TikTok dataset, Gather descriptive statistics, EDA and cleaning, Select and build visualization(s),
 Explore the project data, Implement a hypothesis test, Determine the correct modeling approach, Build a regression model, Evaluate the model,
-Interpret model results and summarize findings, Model building, Model evaluation, and Summarize findings. 
+Interpret model results, Model building, Model evaluation, and Summarize findings. 
